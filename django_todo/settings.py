@@ -27,7 +27,8 @@ SECRET_KEY = 'b=7qf7_$1^p=+m(%p52q4qz_b79@b%p+nt)^w94^8!d9)jv(mr'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'simple-django-todo-434.herokuapp.com'
+    'simple-django-todo-434.herokuapp.com',
+    'localhost'
 ]
 
 
